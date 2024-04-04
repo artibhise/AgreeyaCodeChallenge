@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikitesh\\source\\repos\\AgreeyaCodeChallenge\\Shared\\Shared.csproj": {}
+    "C:\\Users\\Nikitesh\\source\\repos\\Arti_repo_clone\\AgreeyaCodeChallenge\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikitesh\\source\\repos\\AgreeyaCodeChallenge\\Shared\\Shared.csproj": {
+    "C:\\Users\\Nikitesh\\source\\repos\\Arti_repo_clone\\AgreeyaCodeChallenge\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikitesh\\source\\repos\\AgreeyaCodeChallenge\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Nikitesh\\source\\repos\\Arti_repo_clone\\AgreeyaCodeChallenge\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Nikitesh\\source\\repos\\AgreeyaCodeChallenge\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Nikitesh\\source\\repos\\Arti_repo_clone\\AgreeyaCodeChallenge\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Nikitesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikitesh\\source\\repos\\AgreeyaCodeChallenge\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Nikitesh\\source\\repos\\Arti_repo_clone\\AgreeyaCodeChallenge\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikitesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
