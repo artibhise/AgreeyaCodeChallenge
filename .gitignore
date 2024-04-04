@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Agreeya_CodeChallenge/bin/Debug/net6.0
+/Agreeya_CodeChallenge/obj
+/Models/bin/Debug/net6.0
+/Models/obj
+/MVC_Application/bin/Debug/net6.0
+/MVC_Application/obj
+/Repository/bin/Debug/net6.0
+/Repository/obj
+/Service/obj
+/Service/bin/Debug/net6.0
